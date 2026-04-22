@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+streamlit
+torch
+torchvision
+ultralytics
+opencv-python
+pillow
+python-multipart
+albumentations
+scikit-learn
+tqdm
+plotly
+folium
+streamlit-folium
+requests
